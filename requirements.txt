@@ -1,0 +1,14 @@
+# --find-links https://download.pytorch.org/whl/torch_stable.html
+
+pandas
+torch
+# torchdata==0.3.0
+# torchtext==0.12
+altair==4.1
+# jupytext==1.13
+# GPUtil
+datasets==2.20.0
+transformers==4.43.3
+ipykernel
+nltk
+matplotlib
