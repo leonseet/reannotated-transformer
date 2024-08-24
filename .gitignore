@@ -1,4 +1,7 @@
 .venv
+.env
 __pycache__
 tokenizer
 training_results.png
+.jupyter_to_medium
+.jupyter_to_me
